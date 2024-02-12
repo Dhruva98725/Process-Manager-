@@ -1,0 +1,2140 @@
+[Running] python -u "d:\Code\Python\Chapter 2\Process Manager.py"
+PID: 0
+Name: System Idle Process
+CPU Percent: 0.0
+Memory Percent: 0.00013029375378259054
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 4
+Name: System
+CPU Percent: 0.0
+Memory Percent: 0.036286810428451464
+I/O Read Bytes: 128449333
+I/O Write Bytes: 1844233895
+Bound: I/O bound
+--------------------
+PID: 140
+Name: 
+CPU Percent: 0.0
+Memory Percent: 0.5218264838992751
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 184
+Name: Registry
+CPU Percent: 0.0
+Memory Percent: 0.42593028111528847
+I/O Read Bytes: 39649280
+I/O Write Bytes: 805117952
+Bound: I/O bound
+--------------------
+PID: 328
+Name: explorer.exe
+CPU Percent: 0.0
+Memory Percent: 2.437144664503356
+I/O Read Bytes: 32211939
+I/O Write Bytes: 2195896
+Bound: I/O bound
+--------------------
+PID: 688
+Name: smss.exe
+CPU Percent: 0.0
+Memory Percent: 0.0022801406911953344
+I/O Read Bytes: 16836
+I/O Write Bytes: 24740
+Bound: I/O bound
+--------------------
+PID: 756
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.0646257018761649
+I/O Read Bytes: 89546
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 764
+Name: csrss.exe
+CPU Percent: 0.0
+Memory Percent: 0.030097857123778417
+I/O Read Bytes: 1101239
+I/O Write Bytes: 31
+Bound: I/O bound
+--------------------
+PID: 868
+Name: SystemSettingsBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.016156425469041225
+I/O Read Bytes: 24849
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 1140
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.0799352179456193
+I/O Read Bytes: 638
+I/O Write Bytes: 101876098
+Bound: I/O bound
+--------------------
+PID: 1144
+Name: wininit.exe
+CPU Percent: 0.0
+Memory Percent: 0.014658047300541434
+I/O Read Bytes: 61444
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 1224
+Name: OpenConsole.exe
+CPU Percent: 0.0
+Memory Percent: 0.28299803321578665
+I/O Read Bytes: 63811
+I/O Write Bytes: 3886
+Bound: I/O bound
+--------------------
+PID: 1284
+Name: services.exe
+CPU Percent: 0.0
+Memory Percent: 0.08703622752677048
+I/O Read Bytes: 794740
+I/O Write Bytes: 19892
+Bound: I/O bound
+--------------------
+PID: 1304
+Name: LsaIso.exe
+CPU Percent: 0.0
+Memory Percent: 0.01159614408665056
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 1320
+Name: lsass.exe
+CPU Percent: 0.0
+Memory Percent: 0.21557101563329603
+I/O Read Bytes: 8743715
+I/O Write Bytes: 7736516
+Bound: I/O bound
+--------------------
+PID: 1432
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.3752460108938608
+I/O Read Bytes: 24457352
+I/O Write Bytes: 5697024
+Bound: I/O bound
+--------------------
+PID: 1468
+Name: fontdrvhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.0029316094601082874
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 1496
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03368093535279966
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 1552
+Name: WUDFHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.017263922376193248
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 1600
+Name: AggregatorHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04742692637686296
+I/O Read Bytes: 81058
+I/O Write Bytes: 512036
+Bound: I/O bound
+--------------------
+PID: 1620
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.255050023029421
+I/O Read Bytes: 1765376
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 1672
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.058436748571491864
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 1684
+Name: WUDFHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.0020847000605214486
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 1796
+Name: dwm.exe
+CPU Percent: 0.0
+Memory Percent: 0.8928379477952016
+I/O Read Bytes: 5248614
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 1844
+Name: NVIDIA Share.exe
+CPU Percent: 0.0
+Memory Percent: 0.08228050551370591
+I/O Read Bytes: 66581
+I/O Write Bytes: 21179
+Bound: I/O bound
+--------------------
+PID: 1872
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.01667760048417159
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 1948
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.13009831315191667
+I/O Read Bytes: 116
+I/O Write Bytes: 160
+Bound: I/O bound
+--------------------
+PID: 1956
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.05185691400547103
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2012
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03263858532253893
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2020
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.15172707627982668
+I/O Read Bytes: 77374504
+I/O Write Bytes: 1050585443
+Bound: I/O bound
+--------------------
+PID: 2032
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.011921878471107034
+I/O Read Bytes: 648
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 2044
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03589592916710369
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2068
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.034202110367930014
+I/O Read Bytes: 5633
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 2100
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 1.8625492103221317
+I/O Read Bytes: 57948564
+I/O Write Bytes: 16057038
+Bound: I/O bound
+--------------------
+PID: 2112
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04182429496421156
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2136
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.017003334868628067
+I/O Read Bytes: 10887284
+I/O Write Bytes: 19484832
+Bound: I/O bound
+--------------------
+PID: 2144
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.07381141151783754
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2224
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.0936160620927913
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2232
+Name: sihost.exe
+CPU Percent: 0.0
+Memory Percent: 0.24879592284785665
+I/O Read Bytes: 1126400
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 2248
+Name: crashpad_handler.exe
+CPU Percent: 0.0
+Memory Percent: 0.052443235897492696
+I/O Read Bytes: 14661
+I/O Write Bytes: 24
+Bound: I/O bound
+--------------------
+PID: 2256
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.6985699609053592
+I/O Read Bytes: 324642374
+I/O Write Bytes: 406452115
+Bound: I/O bound
+--------------------
+PID: 2288
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.018110831775780083
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2316
+Name: MemCompression
+CPU Percent: 0.0
+Memory Percent: 2.2355802274016883
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2404
+Name: NVDisplay.Container.exe
+CPU Percent: 0.0
+Memory Percent: 0.11921878471107034
+I/O Read Bytes: 77781171
+I/O Write Bytes: 66797350
+Bound: I/O bound
+--------------------
+PID: 2496
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.12645008804600413
+I/O Read Bytes: 5664769776
+I/O Write Bytes: 378003528
+Bound: I/O bound
+--------------------
+PID: 2536
+Name: atiesrxx.exe
+CPU Percent: 0.0
+Memory Percent: 0.012703640993802577
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2576
+Name: amdfendrsr.exe
+CPU Percent: 0.0
+Memory Percent: 0.007231303334933775
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2632
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.029576682108648052
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2668
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.06182438616983921
+I/O Read Bytes: 5080
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 2700
+Name: python.exe
+CPU Percent: 0.0
+Memory Percent: 0.2501640072625738
+I/O Read Bytes: 1055361
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 2840
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.01902288805225822
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 2848
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.08241079926748851
+I/O Read Bytes: 13492268
+I/O Write Bytes: 118169149
+Bound: I/O bound
+--------------------
+PID: 2868
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.021303028743453554
+I/O Read Bytes: 714
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 2944
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.24990341975500863
+I/O Read Bytes: 569409132
+I/O Write Bytes: 3814672
+Bound: I/O bound
+--------------------
+PID: 3012
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.020130384959410236
+I/O Read Bytes: 268604
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 3036
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.023778610065322774
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3044
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.05498396409625321
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3068
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 0.05042368271386254
+I/O Read Bytes: 289361
+I/O Write Bytes: 18480
+Bound: I/O bound
+--------------------
+PID: 3220
+Name: SearchHost.exe
+CPU Percent: 0.0
+Memory Percent: 1.1325784547551683
+I/O Read Bytes: 78108291
+I/O Write Bytes: 67149871
+Bound: I/O bound
+--------------------
+PID: 3224
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.09159650890916116
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3252
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.012703640993802577
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3300
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.010814381563955014
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3348
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 0.04866471703779757
+I/O Read Bytes: 44632
+I/O Write Bytes: 173327
+Bound: I/O bound
+--------------------
+PID: 3388
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03648225105912535
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3396
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.033094613460778
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3404
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04091223868773343
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3448
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.10755749374752849
+I/O Read Bytes: 779970
+I/O Write Bytes: 46970
+Bound: I/O bound
+--------------------
+PID: 3640
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.05055397646764513
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3792
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.10651514371726777
+I/O Read Bytes: 880383
+I/O Write Bytes: 320
+Bound: I/O bound
+--------------------
+PID: 3808
+Name: LenovoVantage-(LenovoServiceBridgeAddin).exe
+CPU Percent: 0.0
+Memory Percent: 0.02078185372832319
+I/O Read Bytes: 387708
+I/O Write Bytes: 23120
+Bound: I/O bound
+--------------------
+PID: 3828
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04846927640712368
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 3892
+Name: spoolsv.exe
+CPU Percent: 0.0
+Memory Percent: 0.02449522571112702
+I/O Read Bytes: 4782172
+I/O Write Bytes: 1090197
+Bound: I/O bound
+--------------------
+PID: 3964
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.10814381563955015
+I/O Read Bytes: 232
+I/O Write Bytes: 33088
+Bound: I/O bound
+--------------------
+PID: 3976
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.017263922376193248
+I/O Read Bytes: 4209
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 4016
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.035505047905755927
+I/O Read Bytes: 510100
+I/O Write Bytes: 857648
+Bound: I/O bound
+--------------------
+PID: 4092
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.2512715041697258
+I/O Read Bytes: 288007178
+I/O Write Bytes: 6483288
+Bound: I/O bound
+--------------------
+PID: 4172
+Name: AdobeCollabSync.exe
+CPU Percent: 0.0
+Memory Percent: 0.04338782000960265
+I/O Read Bytes: 50762924
+I/O Write Bytes: 18612
+Bound: I/O bound
+--------------------
+PID: 4176
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.10000045602813823
+I/O Read Bytes: 2092937940
+I/O Write Bytes: 2304827825
+Bound: I/O bound
+--------------------
+PID: 4196
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.05465822971179673
+I/O Read Bytes: 24883
+I/O Write Bytes: 3648
+Bound: I/O bound
+--------------------
+PID: 4380
+Name: GoogleDriveFS.exe
+CPU Percent: 0.0
+Memory Percent: 0.08006551169940189
+I/O Read Bytes: 909017
+I/O Write Bytes: 2239
+Bound: I/O bound
+--------------------
+PID: 4392
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.26058750756518106
+I/O Read Bytes: 983846494
+I/O Write Bytes: 30906139
+Bound: I/O bound
+--------------------
+PID: 4400
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.08983754323309619
+I/O Read Bytes: 29970263
+I/O Write Bytes: 66436858
+Bound: I/O bound
+--------------------
+PID: 4428
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.21348631557277462
+I/O Read Bytes: 1355131742
+I/O Write Bytes: 1232724070
+Bound: I/O bound
+--------------------
+PID: 4436
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.018306272406453973
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 4444
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.015309516069454389
+I/O Read Bytes: 116
+I/O Write Bytes: 160
+Bound: I/O bound
+--------------------
+PID: 4456
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1667760048417159
+I/O Read Bytes: 3248374
+I/O Write Bytes: 445120
+Bound: I/O bound
+--------------------
+PID: 4464
+Name: NahimicService.exe
+CPU Percent: 0.0
+Memory Percent: 0.10149883419663802
+I/O Read Bytes: 509644077
+I/O Write Bytes: 5296
+Bound: I/O bound
+--------------------
+PID: 4472
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.013029375378259054
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 4496
+Name: NVIDIA Web Helper.exe
+CPU Percent: 0.0
+Memory Percent: 0.18202037403427898
+I/O Read Bytes: 16715101
+I/O Write Bytes: 281768
+Bound: I/O bound
+--------------------
+PID: 4520
+Name: RtkAudUService64.exe
+CPU Percent: 0.0
+Memory Percent: 0.023908903819105366
+I/O Read Bytes: 0
+I/O Write Bytes: 114962432
+Bound: I/O bound
+--------------------
+PID: 4576
+Name: Lenovo.Modern.ImController.exe
+CPU Percent: 0.0
+Memory Percent: 1.4589643079805577
+I/O Read Bytes: 1519001
+I/O Write Bytes: 1164285
+Bound: I/O bound
+--------------------
+PID: 4584
+Name: nvcontainer.exe
+CPU Percent: 0.0
+Memory Percent: 0.11687349714298373
+I/O Read Bytes: 42701256
+I/O Write Bytes: 104226043
+Bound: I/O bound
+--------------------
+PID: 4592
+Name: RtkBtManServ.exe
+CPU Percent: 0.0
+Memory Percent: 0.05192206088236233
+I/O Read Bytes: 0
+I/O Write Bytes: 237586
+Bound: I/O bound
+--------------------
+PID: 4600
+Name: UDClientService.exe
+CPU Percent: 0.0
+Memory Percent: 0.08312741491329276
+I/O Read Bytes: 80455995
+I/O Write Bytes: 27234391
+Bound: I/O bound
+--------------------
+PID: 4720
+Name: armsvc.exe
+CPU Percent: 0.0
+Memory Percent: 0.007491890842498956
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 4776
+Name: NVIDIA Share.exe
+CPU Percent: 0.0
+Memory Percent: 0.34078331301836556
+I/O Read Bytes: 1201514
+I/O Write Bytes: 2689183
+Bound: I/O bound
+--------------------
+PID: 4936
+Name: mysqld.exe
+CPU Percent: 0.0
+Memory Percent: 0.007491890842498956
+I/O Read Bytes: 64
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 4988
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.052703823405057866
+I/O Read Bytes: 1145596
+I/O Write Bytes: 1547408
+Bound: I/O bound
+--------------------
+PID: 5044
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.016873041114845475
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 5184
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.12755758495315614
+I/O Read Bytes: 5965668
+I/O Write Bytes: 1359600
+Bound: I/O bound
+--------------------
+PID: 5224
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.08873004632594415
+I/O Read Bytes: 38750
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 5440
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 1.23225317639885
+I/O Read Bytes: 160807464
+I/O Write Bytes: 26993814
+Bound: I/O bound
+--------------------
+PID: 5444
+Name: SDXHelper.exe
+CPU Percent: 0.0
+Memory Percent: 0.10501676554876799
+I/O Read Bytes: 430372
+I/O Write Bytes: 4120
+Bound: I/O bound
+--------------------
+PID: 5468
+Name: RtkAudUService64.exe
+CPU Percent: 0.0
+Memory Percent: 0.04312723250203747
+I/O Read Bytes: 16191
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 5664
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.010162912795042061
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 5736
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 0.2146589593568179
+I/O Read Bytes: 1346911
+I/O Write Bytes: 991520
+Bound: I/O bound
+--------------------
+PID: 5752
+Name: QSHelper.exe
+CPU Percent: 0.0
+Memory Percent: 0.07127068331907703
+I/O Read Bytes: 854675
+I/O Write Bytes: 463
+Bound: I/O bound
+--------------------
+PID: 5776
+Name: mysqld.exe
+CPU Percent: 0.0
+Memory Percent: 0.03042359150823489
+I/O Read Bytes: 33222465
+I/O Write Bytes: 121004792
+Bound: I/O bound
+--------------------
+PID: 5788
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.012768787870693873
+I/O Read Bytes: 1484
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 5796
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04456046379364596
+I/O Read Bytes: 4905
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 5848
+Name: SearchIndexer.exe
+CPU Percent: 0.0
+Memory Percent: 0.4360931939103306
+I/O Read Bytes: 435826064
+I/O Write Bytes: 87802176
+Bound: I/O bound
+--------------------
+PID: 6112
+Name: LenovoVantage-(GenericMessagingAddin).exe
+CPU Percent: 0.0
+Memory Percent: 0.11902334408039647
+I/O Read Bytes: 841875
+I/O Write Bytes: 23182
+Bound: I/O bound
+--------------------
+PID: 6200
+Name: WmiApSrv.exe
+CPU Percent: 0.0
+Memory Percent: 0.014397459792976254
+I/O Read Bytes: 4410
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 6220
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.05837160169460057
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 6288
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.18618977415532187
+I/O Read Bytes: 15335
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 6644
+Name: WmiPrvSE.exe
+CPU Percent: 0.0
+Memory Percent: 0.09817634347518198
+I/O Read Bytes: 1751828
+I/O Write Bytes: 388
+Bound: I/O bound
+--------------------
+PID: 6688
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.029576682108648052
+I/O Read Bytes: 8586
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 7004
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.038371510488972915
+I/O Read Bytes: 332980
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 7288
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1555707420164131
+I/O Read Bytes: 11501678
+I/O Write Bytes: 16396
+Bound: I/O bound
+--------------------
+PID: 7292
+Name: SpotifyWidgetProvider.exe
+CPU Percent: 0.0
+Memory Percent: 0.2176557156938175
+I/O Read Bytes: 86293
+I/O Write Bytes: 106854
+Bound: I/O bound
+--------------------
+PID: 7300
+Name: RtkUWP.exe
+CPU Percent: 0.0
+Memory Percent: 0.0853424087275968
+I/O Read Bytes: 50266
+I/O Write Bytes: 389
+Bound: I/O bound
+--------------------
+PID: 7596
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 5.202499294785057
+I/O Read Bytes: 7765271
+I/O Write Bytes: 18774737
+Bound: I/O bound
+--------------------
+PID: 7656
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04651487010038482
+I/O Read Bytes: 8751
+I/O Write Bytes: 8192
+Bound: I/O bound
+--------------------
+PID: 7684
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.12202010041739604
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 7848
+Name: NahimicSvc64.exe
+CPU Percent: 0.0
+Memory Percent: 0.05537484535760098
+I/O Read Bytes: 14966
+I/O Write Bytes: 236
+Bound: I/O bound
+--------------------
+PID: 8140
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 2.780664146351156
+I/O Read Bytes: 1884904
+I/O Write Bytes: 6173347
+Bound: I/O bound
+--------------------
+PID: 8336
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.06039115487823072
+I/O Read Bytes: 11732
+I/O Write Bytes: 9280
+Bound: I/O bound
+--------------------
+PID: 8560
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.09029357137133524
+I/O Read Bytes: 13776
+I/O Write Bytes: 171792
+Bound: I/O bound
+--------------------
+PID: 8828
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.21088044049712276
+I/O Read Bytes: 2847423
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 8888
+Name: ShareX.exe
+CPU Percent: 0.0
+Memory Percent: 0.06000027361688294
+I/O Read Bytes: 3703736
+I/O Write Bytes: 2327
+Bound: I/O bound
+--------------------
+PID: 9228
+Name: LockApp.exe
+CPU Percent: 0.0
+Memory Percent: 0.06436511436859974
+I/O Read Bytes: 61023
+I/O Write Bytes: 3790
+Bound: I/O bound
+--------------------
+PID: 9460
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.07700360848551101
+I/O Read Bytes: 151552
+I/O Write Bytes: 245760
+Bound: I/O bound
+--------------------
+PID: 9512
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.12631979429222154
+I/O Read Bytes: 5922006
+I/O Write Bytes: 1037151176
+Bound: I/O bound
+--------------------
+PID: 9592
+Name: ai.exe
+CPU Percent: 0.0
+Memory Percent: 0.08104271485277131
+I/O Read Bytes: 6943967
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 9676
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03263858532253893
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 9772
+Name: nvcontainer.exe
+CPU Percent: 0.0
+Memory Percent: 0.08345314929774923
+I/O Read Bytes: 5061685
+I/O Write Bytes: 237187
+Bound: I/O bound
+--------------------
+PID: 9908
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.20605957160716695
+I/O Read Bytes: 17510
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 9932
+Name: FnHotkeyUtility.exe
+CPU Percent: 0.0
+Memory Percent: 0.0868407868960966
+I/O Read Bytes: 33407
+I/O Write Bytes: 45056
+Bound: I/O bound
+--------------------
+PID: 10220
+Name: taskhostw.exe
+CPU Percent: 0.0
+Memory Percent: 0.24247667578940096
+I/O Read Bytes: 8140660
+I/O Write Bytes: 27938816
+Bound: I/O bound
+--------------------
+PID: 10412
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.035244460398190736
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 10516
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.22501731278253387
+I/O Read Bytes: 1874743
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 10692
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 1.8835916515580202
+I/O Read Bytes: 805593457
+I/O Write Bytes: 63931435
+Bound: I/O bound
+--------------------
+PID: 10732
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 1.77544783591847
+I/O Read Bytes: 2197227
+I/O Write Bytes: 3423967
+Bound: I/O bound
+--------------------
+PID: 10848
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.0565474891416443
+I/O Read Bytes: 1978751
+I/O Write Bytes: 6844
+Bound: I/O bound
+--------------------
+PID: 10952
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.10443044365674632
+I/O Read Bytes: 232538
+I/O Write Bytes: 142244
+Bound: I/O bound
+--------------------
+PID: 11244
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.0371337198280383
+I/O Read Bytes: 2967
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 11320
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.11778555341946184
+I/O Read Bytes: 274680
+I/O Write Bytes: 269377
+Bound: I/O bound
+--------------------
+PID: 11352
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1486651730659358
+I/O Read Bytes: 2568531136
+I/O Write Bytes: 270669
+Bound: I/O bound
+--------------------
+PID: 12008
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.272704826666962
+I/O Read Bytes: 24711
+I/O Write Bytes: 70360
+Bound: I/O bound
+--------------------
+PID: 12032
+Name: dllhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.17446333631488872
+I/O Read Bytes: 6455296
+I/O Write Bytes: 1331200
+Bound: I/O bound
+--------------------
+PID: 12040
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 3.676433703606466
+I/O Read Bytes: 44917301
+I/O Write Bytes: 105061924
+Bound: I/O bound
+--------------------
+PID: 12368
+Name: StartMenuExperienceHost.exe
+CPU Percent: 0.0
+Memory Percent: 1.0388320989085942
+I/O Read Bytes: 2915593
+I/O Write Bytes: 418347
+Bound: I/O bound
+--------------------
+PID: 12504
+Name: WindowsTerminal.exe
+CPU Percent: 0.0
+Memory Percent: 1.2883446374022551
+I/O Read Bytes: 390045
+I/O Write Bytes: 177156
+Bound: I/O bound
+--------------------
+PID: 12688
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04807839514577591
+I/O Read Bytes: 7361
+I/O Write Bytes: 320
+Bound: I/O bound
+--------------------
+PID: 12784
+Name: unsecapp.exe
+CPU Percent: 0.0
+Memory Percent: 0.045537666947015394
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 12880
+Name: jucheck.exe
+CPU Percent: 0.0
+Memory Percent: 0.10912101879291959
+I/O Read Bytes: 3899135
+I/O Write Bytes: 48966
+Bound: I/O bound
+--------------------
+PID: 13088
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 1.4975964059770956
+I/O Read Bytes: 766491
+I/O Write Bytes: 1063
+Bound: I/O bound
+--------------------
+PID: 13108
+Name: WhatsApp.exe
+CPU Percent: 0.0
+Memory Percent: 0.014202019162302367
+I/O Read Bytes: 177454729
+I/O Write Bytes: 59400773
+Bound: I/O bound
+--------------------
+PID: 13132
+Name: fontdrvhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.040065329288146594
+I/O Read Bytes: 2265
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 13156
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.024690666341800907
+I/O Read Bytes: 11344
+I/O Write Bytes: 15636
+Bound: I/O bound
+--------------------
+PID: 13168
+Name: LenovoUtilityService.exe
+CPU Percent: 0.0
+Memory Percent: 0.030358444631343594
+I/O Read Bytes: 3194341
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 13232
+Name: powershell.exe
+CPU Percent: 0.0
+Memory Percent: 1.0820244782875232
+I/O Read Bytes: 295045
+I/O Write Bytes: 5998
+Bound: I/O bound
+--------------------
+PID: 13308
+Name: winlogon.exe
+CPU Percent: 0.0
+Memory Percent: 0.023322581927083707
+I/O Read Bytes: 141186
+I/O Write Bytes: 160
+Bound: I/O bound
+--------------------
+PID: 13316
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1708151112089762
+I/O Read Bytes: 20174466
+I/O Write Bytes: 282628
+Bound: I/O bound
+--------------------
+PID: 13364
+Name: WmiPrvSE.exe
+CPU Percent: 0.0
+Memory Percent: 0.17550568634514946
+I/O Read Bytes: 13440
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 13412
+Name: csrss.exe
+CPU Percent: 0.0
+Memory Percent: 0.04182429496421156
+I/O Read Bytes: 884812
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 13592
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.11179204074546267
+I/O Read Bytes: 19590
+I/O Write Bytes: 160
+Bound: I/O bound
+--------------------
+PID: 13732
+Name: MpDefenderCoreService.exe
+CPU Percent: 0.0
+Memory Percent: 0.15472383261682626
+I/O Read Bytes: 5690140
+I/O Write Bytes: 52431
+Bound: I/O bound
+--------------------
+PID: 13820
+Name: jusched.exe
+CPU Percent: 0.0
+Memory Percent: 0.08306226803640147
+I/O Read Bytes: 15254
+I/O Write Bytes: 1012
+Bound: I/O bound
+--------------------
+PID: 13904
+Name: EoAExperiences.exe
+CPU Percent: 0.0
+Memory Percent: 0.2394147725755101
+I/O Read Bytes: 11578541
+I/O Write Bytes: 20858584
+Bound: I/O bound
+--------------------
+PID: 13940
+Name: powershell.exe
+CPU Percent: 0.0
+Memory Percent: 1.085542409639653
+I/O Read Bytes: 331775
+I/O Write Bytes: 120
+Bound: I/O bound
+--------------------
+PID: 13948
+Name: atieclxx.exe
+CPU Percent: 0.0
+Memory Percent: 0.05439764220423155
+I/O Read Bytes: 3501256
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 14256
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.2590891293966813
+I/O Read Bytes: 848729
+I/O Write Bytes: 320
+Bound: I/O bound
+--------------------
+PID: 14356
+Name: ctfmon.exe
+CPU Percent: 0.0
+Memory Percent: 0.24319329143520524
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 14372
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 3.6646421188891414
+I/O Read Bytes: 3894456421
+I/O Write Bytes: 2025779083
+Bound: I/O bound
+--------------------
+PID: 14464
+Name: SecurityHealthService.exe
+CPU Percent: 0.0
+Memory Percent: 0.12866508186030817
+I/O Read Bytes: 23430245
+I/O Write Bytes: 6262516
+Bound: I/O bound
+--------------------
+PID: 14632
+Name: unsecapp.exe
+CPU Percent: 0.0
+Memory Percent: 0.10807866876265886
+I/O Read Bytes: 4174
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 14768
+Name: Locator.exe
+CPU Percent: 0.0
+Memory Percent: 0.00032573438445647636
+I/O Read Bytes: 1536
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 15056
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.36625574188286203
+I/O Read Bytes: 5616592
+I/O Write Bytes: 44108704
+Bound: I/O bound
+--------------------
+PID: 15076
+Name: backgroundTaskHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.04215002934866804
+I/O Read Bytes: 4158
+I/O Write Bytes: 52
+Bound: I/O bound
+--------------------
+PID: 15392
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.14169445723856722
+I/O Read Bytes: 18559541
+I/O Write Bytes: 15758497
+Bound: I/O bound
+--------------------
+PID: 15404
+Name: AdobeCollabSync.exe
+CPU Percent: 0.0
+Memory Percent: 0.0050163095206297355
+I/O Read Bytes: 8342
+I/O Write Bytes: 1028
+Bound: I/O bound
+--------------------
+PID: 15668
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.09185709641672633
+I/O Read Bytes: 19606332
+I/O Write Bytes: 131072
+Bound: I/O bound
+--------------------
+PID: 15676
+Name: LocationNotificationWindows.exe
+CPU Percent: 0.0
+Memory Percent: 0.027948010186365668
+I/O Read Bytes: 7700
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 15776
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.7078208174239231
+I/O Read Bytes: 781575
+I/O Write Bytes: 402217
+Bound: I/O bound
+--------------------
+PID: 15892
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 2.9137592158400722
+I/O Read Bytes: 43762611
+I/O Write Bytes: 12714405
+Bound: I/O bound
+--------------------
+PID: 15980
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.029120653970408986
+I/O Read Bytes: 6565
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 16100
+Name: NVIDIA Share.exe
+CPU Percent: 0.0
+Memory Percent: 0.22078276578459968
+I/O Read Bytes: 13233159
+I/O Write Bytes: 1961971
+Bound: I/O bound
+--------------------
+PID: 16320
+Name: nvsphelper64.exe
+CPU Percent: 0.0
+Memory Percent: 0.046189135715928344
+I/O Read Bytes: 728094
+I/O Write Bytes: 14016
+Bound: I/O bound
+--------------------
+PID: 16352
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 0.5071684365987337
+I/O Read Bytes: 15168
+I/O Write Bytes: 228
+Bound: I/O bound
+--------------------
+PID: 16364
+Name: nvcontainer.exe
+CPU Percent: 0.0
+Memory Percent: 0.26573411083959336
+I/O Read Bytes: 33112437
+I/O Write Bytes: 1075555
+Bound: I/O bound
+--------------------
+PID: 16392
+Name: powershell.exe
+CPU Percent: 0.0
+Memory Percent: 1.091926803575
+I/O Read Bytes: 331245
+I/O Write Bytes: 1341
+Bound: I/O bound
+--------------------
+PID: 16444
+Name: WidgetService.exe
+CPU Percent: 0.0
+Memory Percent: 0.07980492419183671
+I/O Read Bytes: 26220
+I/O Write Bytes: 160
+Bound: I/O bound
+--------------------
+PID: 16456
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 0.0799352179456193
+I/O Read Bytes: 14319
+I/O Write Bytes: 120
+Bound: I/O bound
+--------------------
+PID: 16504
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.10970734068494123
+I/O Read Bytes: 4845
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 16508
+Name: MsMpEng.exe
+CPU Percent: 0.0
+Memory Percent: 2.9641828985539345
+I/O Read Bytes: 7977689212
+I/O Write Bytes: 1675141808
+Bound: I/O bound
+--------------------
+PID: 16648
+Name: GoogleDriveFS.exe
+CPU Percent: 0.0
+Memory Percent: 0.09791575596761679
+I/O Read Bytes: 30734
+I/O Write Bytes: 5608
+Bound: I/O bound
+--------------------
+PID: 17060
+Name: PhoneExperienceHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.14423518543732775
+I/O Read Bytes: 25151892
+I/O Write Bytes: 6717448
+Bound: I/O bound
+--------------------
+PID: 17140
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.136352413333481
+I/O Read Bytes: 15562
+I/O Write Bytes: 204
+Bound: I/O bound
+--------------------
+PID: 17232
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 0.6278204526014125
+I/O Read Bytes: 177244163
+I/O Write Bytes: 176197268
+Bound: I/O bound
+--------------------
+PID: 17440
+Name: dllhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.06573319878331693
+I/O Read Bytes: 12653
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 17564
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.490686276745236
+I/O Read Bytes: 2201210
+I/O Write Bytes: 19022545
+Bound: I/O bound
+--------------------
+PID: 17676
+Name: Nahimic3.exe
+CPU Percent: 0.0
+Memory Percent: 0.02560272261827904
+I/O Read Bytes: 59794
+I/O Write Bytes: 2580
+Bound: I/O bound
+--------------------
+PID: 17740
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 1.9861328357849188
+I/O Read Bytes: 82748207
+I/O Write Bytes: 2433262
+Bound: I/O bound
+--------------------
+PID: 17852
+Name: OfficeClickToRun.exe
+CPU Percent: 0.0
+Memory Percent: 0.1293816975061124
+I/O Read Bytes: 1469692624
+I/O Write Bytes: 23765561
+Bound: I/O bound
+--------------------
+PID: 18228
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.025342135110713856
+I/O Read Bytes: 4023
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 18552
+Name: Widgets.exe
+CPU Percent: 0.0
+Memory Percent: 0.19752533073440726
+I/O Read Bytes: 1071370
+I/O Write Bytes: 3717844
+Bound: I/O bound
+--------------------
+PID: 18680
+Name: GoogleDriveFS.exe
+CPU Percent: 0.0
+Memory Percent: 0.3404575786339091
+I/O Read Bytes: 3046228
+I/O Write Bytes: 2158928
+Bound: I/O bound
+--------------------
+PID: 18684
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.06592863941399081
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 18784
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.17459363006867132
+I/O Read Bytes: 8726
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 18800
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.013745991024063303
+I/O Read Bytes: 1025
+I/O Write Bytes: 51250
+Bound: I/O bound
+--------------------
+PID: 19108
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 1.488150108827858
+I/O Read Bytes: 3671218
+I/O Write Bytes: 2379969
+Bound: I/O bound
+--------------------
+PID: 19184
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03022815087756101
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 19196
+Name: Microsoft.SharePoint.exe
+CPU Percent: 0.0
+Memory Percent: 0.028404038324604735
+I/O Read Bytes: 2706118
+I/O Write Bytes: 420464
+Bound: I/O bound
+--------------------
+PID: 19352
+Name: SearchProtocolHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.21263940617318777
+I/O Read Bytes: 4005
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 19648
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 5.715270362796443
+I/O Read Bytes: 60015012
+I/O Write Bytes: 16710
+Bound: I/O bound
+--------------------
+PID: 20012
+Name: cmd.exe
+CPU Percent: 0.0
+Memory Percent: 0.06364849872279547
+I/O Read Bytes: 4137
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 20028
+Name: WINWORD.EXE
+CPU Percent: 0.0
+Memory Percent: 0.3650179512219274
+I/O Read Bytes: 18889648
+I/O Write Bytes: 4377882
+Bound: I/O bound
+--------------------
+PID: 20180
+Name: LenovoVantage-(DeviceSettingsSystemAddin).exe
+CPU Percent: 0.0
+Memory Percent: 0.05472337658868802
+I/O Read Bytes: 434547
+I/O Write Bytes: 23120
+Bound: I/O bound
+--------------------
+PID: 20432
+Name: TextInputHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.3985034459440532
+I/O Read Bytes: 1246377
+I/O Write Bytes: 34562
+Bound: I/O bound
+--------------------
+PID: 20448
+Name: LenovoVantageService.exe
+CPU Percent: 0.0
+Memory Percent: 0.3988291803285096
+I/O Read Bytes: 634823304
+I/O Write Bytes: 8003243
+Bound: I/O bound
+--------------------
+PID: 20492
+Name: dllhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1349191820418725
+I/O Read Bytes: 11958
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 20620
+Name: LenovoVantage-(LenovoGamingSystemAddin).exe
+CPU Percent: 0.0
+Memory Percent: 0.20605957160716695
+I/O Read Bytes: 1165410
+I/O Write Bytes: 23120
+Bound: I/O bound
+--------------------
+PID: 20892
+Name: GoogleDriveFS.exe
+CPU Percent: 0.0
+Memory Percent: 0.0784368397771195
+I/O Read Bytes: 756396
+I/O Write Bytes: 27346
+Bound: I/O bound
+--------------------
+PID: 21068
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.9867145973955582
+I/O Read Bytes: 661768
+I/O Write Bytes: 149468
+Bound: I/O bound
+--------------------
+PID: 21120
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03159623529227821
+I/O Read Bytes: 3948
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 21232
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.1887956492309737
+I/O Read Bytes: 172287
+I/O Write Bytes: 408
+Bound: I/O bound
+--------------------
+PID: 21244
+Name: GoogleDriveFS.exe
+CPU Percent: 0.0
+Memory Percent: 0.05550513911138358
+I/O Read Bytes: 57905
+I/O Write Bytes: 5480
+Bound: I/O bound
+--------------------
+PID: 21388
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 1.8596827477389148
+I/O Read Bytes: 9617336
+I/O Write Bytes: 761
+Bound: I/O bound
+--------------------
+PID: 21568
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1362221195796984
+I/O Read Bytes: 6918
+I/O Write Bytes: 517
+Bound: I/O bound
+--------------------
+PID: 21800
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.07550523031701122
+I/O Read Bytes: 11565
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 22128
+Name: NisSrv.exe
+CPU Percent: 0.0
+Memory Percent: 0.06853451448964262
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 22228
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.17667833012919276
+I/O Read Bytes: 5615
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 22600
+Name: LenovoVantage-(VantageCoreAddin).exe
+CPU Percent: 0.0
+Memory Percent: 0.06631952067533858
+I/O Read Bytes: 50584931
+I/O Write Bytes: 4440284
+Bound: I/O bound
+--------------------
+PID: 22904
+Name: GoogleDriveFS.exe
+CPU Percent: 0.0
+Memory Percent: 0.44697272235117685
+I/O Read Bytes: 763783
+I/O Write Bytes: 114128
+Bound: I/O bound
+--------------------
+PID: 23724
+Name: SecurityHealthSystray.exe
+CPU Percent: 0.0
+Memory Percent: 0.07361597088716365
+I/O Read Bytes: 13186
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 23872
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 0.11237836263748434
+I/O Read Bytes: 8694264
+I/O Write Bytes: 19056278
+Bound: I/O bound
+--------------------
+PID: 23888
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 0.6646935849218857
+I/O Read Bytes: 1305982
+I/O Write Bytes: 298748
+Bound: I/O bound
+--------------------
+PID: 24024
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.003387637598347354
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 24528
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.23081538482585912
+I/O Read Bytes: 2226792
+I/O Write Bytes: 1503275
+Bound: I/O bound
+--------------------
+PID: 24560
+Name: cmd.exe
+CPU Percent: 0.0
+Memory Percent: 0.08162903674479298
+I/O Read Bytes: 4117
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 24620
+Name: backgroundTaskHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.022345378773714276
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 24868
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.1706196705783023
+I/O Read Bytes: 11527
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 25332
+Name: RuntimeBroker.exe
+CPU Percent: 0.0
+Memory Percent: 0.49387847371290944
+I/O Read Bytes: 1941275
+I/O Write Bytes: 14032
+Bound: I/O bound
+--------------------
+PID: 25704
+Name: ShellExperienceHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.013550550393389416
+I/O Read Bytes: 13184
+I/O Write Bytes: 583
+Bound: I/O bound
+--------------------
+PID: 25820
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.10990278131561512
+I/O Read Bytes: 4397
+I/O Write Bytes: 512
+Bound: I/O bound
+--------------------
+PID: 25972
+Name: GoogleDriveFS.exe
+CPU Percent: 0.0
+Memory Percent: 0.657722869094517
+I/O Read Bytes: 24788891
+I/O Write Bytes: 15191702
+Bound: I/O bound
+--------------------
+PID: 26292
+Name: nahimicNotifSys.exe
+CPU Percent: 0.0
+Memory Percent: 0.20833971229836226
+I/O Read Bytes: 59673035
+I/O Write Bytes: 108375
+Bound: I/O bound
+--------------------
+PID: 26296
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 1.6689326922012022
+I/O Read Bytes: 65853811
+I/O Write Bytes: 21822504
+Bound: I/O bound
+--------------------
+PID: 26308
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 1.4156416348478462
+I/O Read Bytes: 152145
+I/O Write Bytes: 384
+Bound: I/O bound
+--------------------
+PID: 26644
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.03394152286036484
+I/O Read Bytes: 11426
+I/O Write Bytes: 11296
+Bound: I/O bound
+--------------------
+PID: 26728
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 0.20280222776260215
+I/O Read Bytes: 8276881
+I/O Write Bytes: 7817040
+Bound: I/O bound
+--------------------
+PID: 27072
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.13563579768767675
+I/O Read Bytes: 8575
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 27160
+Name: NVDisplay.Container.exe
+CPU Percent: 0.0
+Memory Percent: 0.2987635774234801
+I/O Read Bytes: 36605848
+I/O Write Bytes: 22885125
+Bound: I/O bound
+--------------------
+PID: 27560
+Name: conhost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1364827070872636
+I/O Read Bytes: 7176
+I/O Write Bytes: 3075
+Bound: I/O bound
+--------------------
+PID: 27624
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 2.0058723394829814
+I/O Read Bytes: 53441081
+I/O Write Bytes: 4845660
+Bound: I/O bound
+--------------------
+PID: 27836
+Name: Code.exe
+CPU Percent: 0.0
+Memory Percent: 1.4644366456394264
+I/O Read Bytes: 938173
+I/O Write Bytes: 159440
+Bound: I/O bound
+--------------------
+PID: 28156
+Name: unsecapp.exe
+CPU Percent: 0.0
+Memory Percent: 0.046189135715928344
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 28336
+Name: NahimicSvc32.exe
+CPU Percent: 0.0
+Memory Percent: 0.03211741030740857
+I/O Read Bytes: 34155
+I/O Write Bytes: 40
+Bound: I/O bound
+--------------------
+PID: 28392
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.1652776266732161
+I/O Read Bytes: 313088
+I/O Write Bytes: 485024
+Bound: I/O bound
+--------------------
+PID: 28508
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.3184379342446513
+I/O Read Bytes: 1527791
+I/O Write Bytes: 20561803
+Bound: I/O bound
+--------------------
+PID: 28740
+Name: ApplicationFrameHost.exe
+CPU Percent: 0.0
+Memory Percent: 0.1101633688231803
+I/O Read Bytes: 27416
+I/O Write Bytes: 1103
+Bound: I/O bound
+--------------------
+PID: 28996
+Name: FnHotkeyCapsLKNumLK.exe
+CPU Percent: 0.0
+Memory Percent: 0.03687313232047312
+I/O Read Bytes: 60
+I/O Write Bytes: 0
+Bound: I/O bound
+--------------------
+PID: 29052
+Name: Notion.exe
+CPU Percent: 0.0
+Memory Percent: 1.6617013888662684
+I/O Read Bytes: 96703048
+I/O Write Bytes: 35378050
+Bound: I/O bound
+--------------------
+PID: 29060
+Name: smartscreen.exe
+CPU Percent: 0.0
+Memory Percent: 0.16039161090636894
+I/O Read Bytes: 10623
+I/O Write Bytes: 480
+Bound: I/O bound
+--------------------
+PID: 29300
+Name: svchost.exe
+CPU Percent: 0.0
+Memory Percent: 0.027491982048126605
+I/O Read Bytes: 0
+I/O Write Bytes: 0
+Bound: CPU bound
+--------------------
+PID: 29480
+Name: chrome.exe
+CPU Percent: 0.0
+Memory Percent: 0.13674329459482876
+I/O Read Bytes: 101823
+I/O Write Bytes: 125644
+Bound: I/O bound
+--------------------
+
+[Done] exited with code=0 in 0.755 seconds
+
